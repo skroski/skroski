@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá Pessoal, 👋
+
+Adoro HTML e CSS, sou estudante eterno de JS. 
+Gosto muito da organização Angular, já me acostumei e hoje trabalho em uma grande empresa com FrontEnd Lead, poderia ser TechLead também, talvez. 
+Mas procuro ser bem generalista com tudo que faço e sempre estar empolgado e aprendendo cada vez mais.
+
+Eu já tenho meu CodePen, fiz algumas coisas legais lá, e estou na jornada do JS para dominar boa parte do desenvolvimento, a ideia é integrar Design e Desenvolvimento, sempre foi isso a 20 anos, pode parecer loucura, mas é isso que movimenta minha jornada e tenho muito para aprender e ensinar, porque não né? 
+
+Afinal dizem que quando ensinamos é que nós aprendemos de verdade, então bora para essa jornada.
 
 <!--
 **skroski/skroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
