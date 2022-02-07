@@ -2,7 +2,7 @@
 
 Adoro HTML e CSS, sou estudante eterno de JS. 
 Gosto muito da criatividade do React e a organização Angular,  hoje trabalho em uma grande empresa com Coordenador FrontEnd e BFF. 
-Acabo sendo generalista com tudo que faço e sempre estar empolgado e aprendendo cada vez mais. 
+Acabo sendo generalista com tudo que faço e sempre estou empolgado e aprendendo cada vez mais. 
 
 ✨ UX/UI e FrontEnd são áreas desafiadoras, e podemos nos divertir por muitos anos aprendendo tudo isto, estou finalizando minha Pós Graduação FullStack pela Puc Minas me tornando muito melhor no BackEnd.
 
