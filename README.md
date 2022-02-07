@@ -1,10 +1,10 @@
 ### Olá Pessoal, 👋
 
 Adoro HTML e CSS, sou estudante eterno de JS. 
-Gosto muito da organização Angular, já me acostumei e hoje trabalho em uma grande empresa com FrontEnd Leader. 
-Mas procuro ser bem generalista com tudo que faço e sempre estar empolgado e aprendendo cada vez mais. 
+Gosto muito da criatividade do React e a organização Angular,  hoje trabalho em uma grande empresa com Coordenador FrontEnd e BFF. 
+Acabo sendo generalista com tudo que faço e sempre estar empolgado e aprendendo cada vez mais. 
 
-✨ UX/UI e FrontEnd são áreas desafiadoras, e podemos nos divertir por muitos anos aprendendo tudo isto, vou iniciar uma Pós Graduação depois de tanto tempo, vai ser bem interessante.
+✨ UX/UI e FrontEnd são áreas desafiadoras, e podemos nos divertir por muitos anos aprendendo tudo isto, estou finalizando minha Pós Graduação FullStack pela Puc Minas me tornando muito melhor no BackEnd.
 
 💬 Tenho meu CodePen também: https://codepen.io/skroski, tenho feito alguns estudos legais lá, e estou na jornada do JS para dominar boa parte do desenvolvimento, a ideia é integrar Design e Desenvolvimento, sempre foi isso a 20 anos, pode parecer loucura, mas é isso que movimenta minha jornada e tenho muito para aprender e ensinar, porque não né? 
 
